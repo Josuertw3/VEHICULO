@@ -1,0 +1,7 @@
+ec\edu\espoch\transportedeproducto\Modelo\Avion.class
+ec\edu\espoch\transportedeproducto\TransporteDeProducto.class
+ec\edu\espoch\transportedeproducto\Modelo\Moto.class
+ec\edu\espoch\transportedeproducto\Dao\VehiculoImpl.class
+ec\edu\espoch\transportedeproducto\Modelo\Vehiculo.class
+ec\edu\espoch\transportedeproducto\Modelo\Carro.class
+ec\edu\espoch\transportedeproducto\intefaces\VehiculoDAO.class
