@@ -14,7 +14,7 @@ import ec.edu.espoch.transportedeproducto.Modelo.Vehiculo;
 
 public interface VehiculoDAO {
 
-    void mostrarDatos(Vehiculo vehiculo);
+   public void mostrarDatos(Vehiculo vehiculo);
 
-    void mostrarDistancias(Vehiculo vehiculo, double velocidad, double tiempo, double c);
+    public void mostrarDistancias(Vehiculo vehiculo, double velocidad, double tiempo, double c);
 }

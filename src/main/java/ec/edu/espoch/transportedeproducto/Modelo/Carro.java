@@ -4,8 +4,6 @@
  */
 package ec.edu.espoch.transportedeproducto.Modelo;
 
-import ec.edu.espoch.transportedeproducto.Modelo.Vehiculo;
-
 /**
  *
  * @author AKRU
